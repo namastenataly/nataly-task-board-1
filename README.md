@@ -11,3 +11,6 @@ The goal of this challenge was to create a simple task board application that al
 <link href="https://namastenataly.github.io/nataly-task-board-1/">
 
 ## References
+<link href="https://www.geeksforgeeks.org/build-a-drag-drop-kanban-board-using-html-css-javascript/">
+<link href="https://dhtmlx.com/blog/build-javascript-taskboard-dhtmlx-kanban-tutorial/">
+<link href="https://www.youtube.com/watch?v=ecKw7FfikwI">
