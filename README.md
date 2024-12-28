@@ -8,9 +8,9 @@ The goal of this challenge was to create a simple task board application that al
 <img src="/screenshot 1.png">
 
 ## Link to Working Application
-<link href="https://namastenataly.github.io/nataly-task-board-1/">
+<a href="https://namastenataly.github.io/nataly-task-board-1/">Github Page</a>
 
 ## References
-<link href="https://www.geeksforgeeks.org/build-a-drag-drop-kanban-board-using-html-css-javascript/">
-<link href="https://dhtmlx.com/blog/build-javascript-taskboard-dhtmlx-kanban-tutorial/">
-<link href="https://www.youtube.com/watch?v=ecKw7FfikwI">
+<a href="https://www.geeksforgeeks.org/build-a-drag-drop-kanban-board-using-html-css-javascript/">Geeks for Geeks website</a>
+<a href="https://dhtmlx.com/blog/build-javascript-taskboard-dhtmlx-kanban-tutorial/">dhtmlx blog page</a>
+<a href="https://www.youtube.com/watch?v=ecKw7FfikwI">Youtube Video</a>
